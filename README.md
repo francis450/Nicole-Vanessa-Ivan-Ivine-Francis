@@ -49,7 +49,7 @@
     <summary>👤 Venessa Mutende</summary>
     <ul>
         <li><a href="https:github.com/">GitHub</a></li>
-        <li><a href="https://twitter.com/">Twitter</a></li>
+        <li><a href="https://twitter.com/mutende_22">Twitter</a></li>
         <li><a href="https://linkedin/in/">LinkedIn</a></li>
         <li><a href="vanessamutesh@gmail.com">Mail</a></li>
     </ul>
