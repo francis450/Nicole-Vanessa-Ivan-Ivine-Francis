@@ -96,7 +96,7 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository to your desired folder:
-
+- This is a link to the original project repo
 >git clone https://github.com/francis450/Luna_Hacks.git
 
 ### Install
