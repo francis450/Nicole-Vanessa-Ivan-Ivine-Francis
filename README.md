@@ -32,7 +32,7 @@
     <ul>
         <li><a href="https:github.com/francis450">GitHub</a></li>
         <li><a href="https://twitter.com/nkamandefrancis">Twitter</a></li>
-        <li><a href="#">LinkedIn</a></li>
+        <li><a mailto="#">LinkedIn</a></li>
     </ul>
 </details>
 
@@ -41,7 +41,7 @@
     <ul>
         <li><a href="https:github.com/874bowen">GitHub</a></li>
         <li><a href="https://twitter.com/">Twitter</a></li>
-        <li><a href="#">LinkedIn</a></li>
+        <li><a mailto="#">LinkedIn</a></li>
     </ul>
 </details>
 
@@ -51,7 +51,7 @@
         <li><a href="https:github.com/">GitHub</a></li>
         <li><a href="https://twitter.com/mutende_22">Twitter</a></li>
         <li><a href="https://linkedin/in/">LinkedIn</a></li>
-        <li><a href="vanessamutesh@gmail.com">Mail</a></li>
+        <li><a mailto="vanessamutesh@gmail.com">Mail</a></li>
     </ul>
 </details>
 
@@ -61,7 +61,7 @@
         <li><a href="https:github.com/">GitHub</a></li>
         <li><a href="https://twitter.com/">Twitter</a></li>
         <li><a href="https://linkedin/in/">LinkedIn</a></li>
-        <li><a href="nicolekipkorir@gmail.com">Mail</a></li>
+        <li><a mailto="nicolekipkorir@gmail.com">Mail</a></li>
     </ul>
 </details>
 
@@ -71,7 +71,7 @@
         <li><a href="https:github.com/">GitHub</a></li>
         <li><a href="https://twitter.com/">Twitter</a></li>
         <li><a href="https://linkedin/in/">LinkedIn</a></li>
-        <li><a href="chebethive@gmail.com">Mail</a></li>
+        <li><a mailto="chebethive@gmail.com">Mail</a></li>
     </ul>
 </details>
 

@@ -73,7 +73,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://luna-hacks-mental-health.vercel.app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,11 +114,9 @@ To run the project, execute the following command in the terminal/powershell:
 ### Deployment
 
 You can deploy this project using:
+>Vercel - https://luna-hacks-mental-health.vercel.app
 
 
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
