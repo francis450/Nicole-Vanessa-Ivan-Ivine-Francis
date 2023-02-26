@@ -107,8 +107,8 @@ Install this projects dependencies with:
 
 ### Usage
 
-To run the project, execute the following command in the terminal/powershell:
->npm start
+To run the project, execute the following command in the terminal/powershell to launch the project to your browser:
+>npm run dev 
 
 
 ### Deployment
